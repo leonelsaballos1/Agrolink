@@ -1,4 +1,4 @@
-// CapacitacionesEnLinea.js
+// Capacitaciones.js
 import React, { useState } from "react";
 import {
   View,
